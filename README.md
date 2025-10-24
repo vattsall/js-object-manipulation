@@ -1,3 +1,3 @@
 # js-object-manipulation
 
-!CODE OUTPUT SCREENSHOT(SS.png)
+!CODE OUTPUT SCREENSHOT('SS.png')
