@@ -1,3 +1,4 @@
 # js-object-manipulation
 
-![CODE OUTPUT SCREENSHOT](SS.png)
+
+![## sculptureListLengths object Output]SS.png)
